@@ -1,6 +1,6 @@
 # option-pricing-julia
 
-This repository consists of pricing formulas for options. The first commit includes the Black Scholes Equation with Greeks, easy and simple to understand code with too much OOP.
+This repository consists of pricing formulas for options. The first commit includes the Black Scholes Equation with Greeks, easy and simple to understand code without too much OOP.
 
 The repository will include the following features soon:
 
