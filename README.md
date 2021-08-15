@@ -5,7 +5,7 @@ This repository consists of pricing formulas for options. The first commit inclu
 The repository will include the following features soon:
 
 1. Black Scholes PDE
-2. Heston Stochastic Volatility Pricing Formula
+2. Heston Stochastic Volatility Pricing Formula(Done)
 3. Multi/Single Step Binomial Pricing
 4. Jump Process Option Pricing
 5. American Option(Basics)
